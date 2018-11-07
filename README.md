@@ -1,5 +1,5 @@
 # myPosts
-![demo](https://i.makeagif.com/media/6-07-2018/IeEcIv.gif)
+![demo](../docs/demo.gif)
 A Vue.js app that consumes posts from an API and then displays those posts, and lets the user filter the posts by finding even or odd IDs.
 
 # Getting Started
