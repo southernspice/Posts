@@ -96,5 +96,7 @@
     "last 2 versions",
     "not ie <= 8"
   ],
-  "eslintIgnore": ["node_modules, client/node_modules"]
+  "eslintIgnore": [
+    "node_modules, client/node_modules"
+  ]
 }

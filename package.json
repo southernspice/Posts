@@ -21,7 +21,10 @@
     "chai": "^4.2.0",
     "eslint": "^5.8.0",
     "eslint-plugin-vue": "^4.7.1",
-    "mocha": "^5.2.0"
+    "mocha": "^5.2.0",
+    "supertest": "^3.3.0"
   },
-  "eslintIgnore": ["node_modules, client/node_modules"]
+  "eslintIgnore": [
+    "node_modules, client/node_modules"
+  ]
 }
