@@ -128,3 +128,10 @@ and retrieve 100 posts. There are buttons on the top to filter the
 posts - either by evenID or oddID. Go ahead and play with those buttons -
 once you are done, you can click on `getAllPosts` to get back to the 
 original 100 posts.
+
+To watch and see the full functionality of the app, go ahead and 
+check out the gif at the top of the README. This is how your app
+should behave once you have installed all the dependencies and 
+ran the server and client apps. 
+
+Thanks for reading!
