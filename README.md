@@ -2,7 +2,8 @@
 ![demo](./docs/demo.gif)
 
 A Vue.js app that consumes posts from an API and then displays those posts, and lets the user filter the posts by finding even or odd IDs.
-
+  
+  
 # Getting Started
 To run this app, run npm start from the root directory, 
 and then in a different terminal window, run npm run dev from 
