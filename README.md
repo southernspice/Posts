@@ -2,6 +2,15 @@
 ![demo](./docs/demo.gif)
 
 A Vue.js app that consumes posts from an API and then displays those posts, and lets the user filter the posts by finding even or odd IDs.
+
+This app has been tested with the following Node.js + NPM versions:
+```
+$ node -v
+v10.13.0
+$ npm -v
+6.4.1
+```
+
   
 
 # Getting Started
@@ -86,6 +95,12 @@ can go ahead and start our server now, with the following command:
 
 ```$ npm start```
 
+Just to make sure our server-side app is working, go ahead and 
+open your broswer to `localhost:8081`. You should see `hello world`
+printed to the screen. If you go to `localhost:8081/posts` you will
+see a lot of JSON that will be rendered on our client app. Great,
+looks like we are ready to see our client app.
+
 In a different terminal window, go ahead and start the client-app:
 
 ```
@@ -93,8 +108,16 @@ $ cd Posts/client
 $ npm run dev
 ```
 
+If everything went well, you should see something like this:
 
-Once the project is done building, you can go ahead and go to
+```
+ Compiled successfully in 6867ms                               10:34:24 AM
+
+ I  Your application is running here: http://localhost:8080
+ ```
+
+
+This means that you can go ahead and open your browser to
 `localhost:8080` to see the home page of the app. It's just the
 Vue.js boilerplate, nothing to see there.
 
